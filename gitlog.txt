@@ -1,0 +1,17 @@
+commit f8186f78071ed7020a3c34a91224ee378e78feb8
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 13 11:19:41 2024 -0600
+
+    added README.txt file
+
+commit 6d1cf397d860722dfe555f0e142557be46f775d4
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 13 11:09:56 2024 -0600
+
+    Added git log
+
+commit 5ea7e20662d6592a6392c4b14b8ddb682b95db93
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 13 10:59:40 2024 -0600
+
+    added files
