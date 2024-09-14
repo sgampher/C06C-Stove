@@ -1,0 +1,55 @@
+commit 6f31d732f535a3c85c609f10f9a158a5d88de499
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 13 19:21:23 2024 -0600
+
+    changed comments in initial commit of gitlog
+
+commit d303a7d7dc033e27c4a2bca1a9b630eebafe06cb
+Author: sgampher <saragampher@gmail.com>
+Date:   Fri Sep 13 16:39:41 2024 -0600
+
+    Update README.txt to include 2nd certification
+
+commit 14d531085b72e5fb26c82ff9e2bd97fee031f1c1
+Merge: fcdc4e1 f19baef
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 13 11:26:15 2024 -0600
+
+    Merge branch 'master' of https://github.com/sgampher/C06C-Stove
+    Pulling from the git repo
+
+commit fcdc4e104bcb9cd681fbf88ff55d24836090ca00
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 13 11:25:20 2024 -0600
+
+    Added git log file for the first time
+
+commit f19baef2194f8cb2862db630a6cb3e29adafd2ad
+Author: Robert Davis <98786302+ProfessorRDJ@users.noreply.github.com>
+Date:   Fri Sep 13 11:24:20 2024 -0600
+
+    Delete log
+
+commit eac6464c2936ab88454a1351ef4aabec71720dec
+Author: Robert Davis <98786302+ProfessorRDJ@users.noreply.github.com>
+Date:   Fri Sep 13 11:22:21 2024 -0600
+
+    Update log
+
+commit f8186f78071ed7020a3c34a91224ee378e78feb8
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 13 11:19:41 2024 -0600
+
+    added README.txt file
+
+commit 6d1cf397d860722dfe555f0e142557be46f775d4
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 13 11:09:56 2024 -0600
+
+    Added git log
+
+commit 5ea7e20662d6592a6392c4b14b8ddb682b95db93
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 13 10:59:40 2024 -0600
+
+    added files
