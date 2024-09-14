@@ -14,4 +14,4 @@ commit 5ea7e20662d6592a6392c4b14b8ddb682b95db93
 Author: Robery Davis <rob2davis2@gmail.com>
 Date:   Fri Sep 13 10:59:40 2024 -0600
 
-    added files
+    added project files, while I committed the files, both my partner and I contributed to their creation
